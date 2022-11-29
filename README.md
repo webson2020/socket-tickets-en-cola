@@ -1,2 +1,5 @@
-# socket-tickets-en-cola
-Aplicación de tickets en cola con socket (ej: un banco)
+# Socket Server Basico
+
+Un servidor de Websockets usando Node, Express y Socket.io
+
+Temas cubiertos en mi curso de Node de cero a experto
